@@ -20,4 +20,4 @@
 # 9 - What does the command 'git add .' do?
     moves all changes to the staging area
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-    git push
+    git push origin main
